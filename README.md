@@ -1,5 +1,5 @@
 # nuxtjs-starter
-- with. netlify
+- with. netlify 
 
 > Nuxt.js project
 
